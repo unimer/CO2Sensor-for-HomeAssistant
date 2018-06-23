@@ -1,6 +1,6 @@
 """ 
 Support for CO2 Infinion sensor
-Author: Nikola Marin
+ Author: Nikola Marin 
 """
 import os
 import os.path
